@@ -9,4 +9,11 @@ A collection of fun, silly, or otherwise non-lore-friendly changes and additions
 - **Freezing Mist**: A cloud of freezing vapours.
 - **Freezing Trail**: Projectiles gain a trail of freezing vapours.
 - **Honk**: Honk.
+- **Lovely Trail**: Projectiles gain a trail of hearts.
+- **Pop Trail**: Projectiles gain a cool, cool trail of cool, cool particles.
+- **Rainbow Glitter Trail**: Projectiles gain a trail of rainbow coloured particles.
+- **Rainbow Projectile**: The projectile's particle emitters will be random colours.
+- **Rainbow Trail**: Projectiles gain a rainbow trail.
+- **Sparkling Trail**: Projectiles gain a sparkly trail.
+- **Starry Trail**: Projectiles gain a trail of stars.
 - **Void Trail**: Projectiles gain a trail of void liquid.

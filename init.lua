@@ -8,7 +8,6 @@ changelog
     -m "Add Action: Sparkling Trail"
     -m "Add Action: Starry Trail"
     -m "Update README (remove copy paste cruft)"
-    -m "Update TAGS??"
 ]]
 ModLuaFileAppend( "mods/gkbrkn_noita/files/gkbrkn/config.lua", "mods/gkbrkn_noita_extras/files/config.lua" );
 ModLuaFileAppend( "mods/gkbrkn_noita/files/gkbrkn/lib/localization.lua", "mods/gkbrkn_noita_extras/files/localization.lua" );
