@@ -21,6 +21,7 @@ local edits = {
     action_description_starry_trail = "Only shooting stars",
     action_name_rainbow_projectile = "Rainbow Projectile",
     action_description_rainbow_projectile = "The projectile will have randomly coloured particles",
+    loadout_rainbow = "Rainbow TYPE",
 }
 for key,translation in pairs( edits ) do
     gkbrkn_localization[key] = translation;
